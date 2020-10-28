@@ -42,7 +42,7 @@ The datasets are not available publicly . But you can mail the publisher and the
 
 # 10. Web App Demo
 
-![](https://github.com/akhiilkasare/Real-Forge-Signature-Detection/blob/main/Animated%20GIF-source.gif)
+![alt-text](https://github.com/akhiilkasare/Real-Forge-Signature-Detection/blob/main/Animated%20GIF-downsized.gif)
 
 # 11. Motivation
 

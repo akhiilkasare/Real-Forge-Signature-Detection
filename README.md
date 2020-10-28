@@ -4,7 +4,7 @@
 
 
 
-**In this project we have implemented a deep learning research paper it can be found**[here](https://philarchive.org/archive/ALAHSV)
+**In this project we have implemented a deep learning research paper it can be found** [here](https://philarchive.org/archive/ALAHSV)
 
 
 # 1. Introduction

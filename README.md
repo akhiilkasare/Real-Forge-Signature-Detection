@@ -32,11 +32,18 @@ The datasets are not available publicly . But you can mail the publisher and the
 
 # 8. Model Architecture
 
+![image](https://github.com/akhiilkasare/Real-Forge-Signature-Detection/blob/main/Screenshot%20from%202020-10-29%2002-09-27.png)
+
 # 9.RESULTS 
 
-- In this implementation we were able to 95.5% accuracy on our validation dataset with 10 epochs 
+- In this implementation we were able to **95.5%** accuracy on our validation dataset with 10 epochs 
 
 # 10. Web App Demo
 
+
+
 # 11. Motivation
+
+- A model that can learn from signatures and make predictions as to whether the signature in question is a forgery or
+not, has been successfully implemented. This model can be deployed at various government offices where handwritten signatures are used as a means of approval or authentication. While this method uses CNNs to learn the signatures,the structure  of our fully connected layer is not optimal. This implementation may be considered extreme. In the model created in this work, two classes are created for each user (Real and forgery).The best accuracy we got was **95.5%**.
 
